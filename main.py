@@ -1,5 +1,3 @@
 import random
-a = int(input("Введите число А:"))
-b = int(input("Введите число В:"))
-print(random.randint(a,b))
+print(random.randint(1,1000))
 print("Hello, World!")
